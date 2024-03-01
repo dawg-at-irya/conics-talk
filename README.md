@@ -96,7 +96,7 @@ By default it uses a Levenberg-Marquardt algorithm
 ![019](slides/019.jpeg)
 
 ### General conic versus parabola ###
-![020](slides/002.jpeg)
+![020](slides/020.jpeg)
 
 ### Unwanted spurious solutions ###
 ![021](slides/021.jpeg)
